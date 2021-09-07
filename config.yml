@@ -48,11 +48,11 @@ languages:
                 - name: Series
                   url: series
                   weight: 10
-                - name: NullLink
+                - name: Affiliate Disclosure
                   url: "#"
-                - name: NullLink2
+                - name: Privacy Policy
                   url: "#"
-                - name: NullLink3
+                - name: Contact Us
                   url: "#"
 
 
@@ -101,7 +101,7 @@ params:
             Welcome to healthynailguru.com the home of healthy nail care tips and advice
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "/contact"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
