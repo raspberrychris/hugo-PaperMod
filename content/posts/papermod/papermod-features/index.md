@@ -1,13 +1,16 @@
 ---
-title: "Features"
+title: Features
 summary: Learn About All Features in PaperMod
 date: 2021-01-20
-weight: 2
-aliases: ["/papermod-features"]
-tags: ["PaperMod"]
-author: "Aditya Telange"
----
+weight: "2"
+aliases:
+- "/papermod-features"
+tags:
+- PaperMod
+author: Aditya Telange
+draft: true
 
+---
 ### Intro
 
 -   **We'll be using `yml/yaml` format for all examples down below, I recommend using `yml` over `toml` as it is easier to read.**
