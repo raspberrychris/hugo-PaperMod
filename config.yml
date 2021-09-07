@@ -127,9 +127,7 @@ params:
     homeInfoParams:
         Title: "Healthy Nail Guru"
         Content: >
-            Welcome to healthynailguru.com!
-
-          lorem ipsumh
+            Welcome to healthynailguru.com
 
     socialIcons:
         - name: github
