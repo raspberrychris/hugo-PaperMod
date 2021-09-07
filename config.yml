@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
 title: Healthy Nail Guru
 paginate: 5
 theme: hugo-PaperMod
