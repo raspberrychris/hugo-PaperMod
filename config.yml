@@ -36,17 +36,14 @@ languages:
 
         menu:
             main:
-                - name: Archive
-                  url: archives/
+                - name: Home
+                  url: /
                   weight: 5
-                - name: Tags
-                  url: tags
-                  weight: 10
                 - name: Categories
                   url: categories
                   weight: 10
-                - name: Series
-                  url: series
+                - name: Search
+                  url: search
                   weight: 10
                 - name: Affiliate Disclosure
                   url: "#"
