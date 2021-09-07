@@ -98,15 +98,7 @@ params:
     homeInfoParams:
         Title: "Healthy Nail Guru"
         Content: >
-            Welcome to healthynailguru.com
-
-    socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: RsS
-          url: "index.xml"
+            Welcome to healthynailguru.com the home of healthy nail care tips and advice
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
