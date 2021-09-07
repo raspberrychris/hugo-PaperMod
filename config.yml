@@ -129,11 +129,7 @@ params:
         Content: >
             Welcome to healthynailguru.com!
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+          lorem ipsum
 
     socialIcons:
         - name: github
