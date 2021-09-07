@@ -129,7 +129,7 @@ params:
         Content: >
             Welcome to healthynailguru.com!
 
-          lorem ipsum
+          lorem ipsumh
 
     socialIcons:
         - name: github
