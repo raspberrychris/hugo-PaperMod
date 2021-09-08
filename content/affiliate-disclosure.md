@@ -8,4 +8,4 @@ tags = []
 title = "Affiliate Disclosure"
 
 +++
-[https://nailcareguru.com](https://nailcareguru.com "https://nailcareguru.com") are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
+[https://healthynailguru.com](https://healthynailguru.com "https://healthynailguru.com") are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.
