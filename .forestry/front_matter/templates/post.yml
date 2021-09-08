@@ -23,3 +23,5 @@ fields:
 - type: boolean
   name: ShowBreadCrumbs
   label: ShowBreadCrumbs
+pages:
+- content/posts/fgfg.md
