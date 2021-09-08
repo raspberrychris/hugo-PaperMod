@@ -24,4 +24,5 @@ fields:
   name: ShowBreadCrumbs
   label: ShowBreadCrumbs
 pages:
+- content/affiliate-disclosure.md
 - content/posts/fgfg.md
