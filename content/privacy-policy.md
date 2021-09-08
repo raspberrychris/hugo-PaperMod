@@ -1,8 +1,8 @@
 +++
 ShowBreadCrumbs = true
 ShowToc = true
-author = ""
-date = ""
+author = "Healthy Nail Guru"
+date = 2021-09-07T23:00:00Z
 description = ""
 tags = []
 title = "Privacy Policy"
