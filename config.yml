@@ -43,11 +43,9 @@ languages:
                   url: "https://healthynailguru.com/affiliate-disclosure"
                 - name: Privacy Policy
                   url: "https://healthynailguru.com/privacy-policy"
-                - name: Contact Us
-                  url: "https://healthynailguru.com/contact"
                 - name: Search
                   url: search
-                  weight: 10
+                  weight: 5
 
 
 
