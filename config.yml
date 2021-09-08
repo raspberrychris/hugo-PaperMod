@@ -39,9 +39,6 @@ languages:
                 - name: Home
                   url: /
                   weight: 5
-                - name: Categories
-                  url: categories
-                  weight: 10
                 - name: Affiliate Disclosure
                   url: "https://healthynailguru.com/affiliate-disclosure"
                 - name: Privacy Policy
@@ -98,7 +95,7 @@ params:
             Welcome to healthynailguru.com the home of healthy nail care tips and advice
 
     editPost:
-        URL: "/contact"
+        URL: "https://healthynailguru.com/contact"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
