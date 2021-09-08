@@ -1,0 +1,22 @@
+---
+label: Variables Front Matter
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: summary
+  label: summary
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
+- type: number
+  name: weight
+  label: weight
