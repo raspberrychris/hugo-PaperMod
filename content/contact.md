@@ -11,4 +11,4 @@ menu: main
 
 ## Contact
 
-{{< form-contact action="https://formspree.io/f/mqkwwnvq"  >}}
+{{< form-contact action="https://submit-form.com/6t0Lk9oc"  >}}
