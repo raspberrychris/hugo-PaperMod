@@ -9,6 +9,8 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+  templates:
+  - variables-front-matter
 - type: directory
   path: content
   label: Pages
