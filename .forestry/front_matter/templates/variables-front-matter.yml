@@ -20,5 +20,3 @@ fields:
 - type: number
   name: weight
   label: weight
-pages:
-- content/affiliate-disclosure.md
