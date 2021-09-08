@@ -20,3 +20,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- content/posts/nail-care-test.md
