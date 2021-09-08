@@ -42,15 +42,15 @@ languages:
                 - name: Categories
                   url: categories
                   weight: 10
+                - name: Affiliate Disclosure
+                  url: "https://healthynailguru.com/affiliate-disclosure"
+                - name: Privacy Policy
+                  url: "https://healthynailguru.com/privacy-policy"
+                - name: Contact Us
+                  url: "https://healthynailguru.com/contact"
                 - name: Search
                   url: search
                   weight: 10
-                - name: Affiliate Disclosure
-                  url: "#"
-                - name: Privacy Policy
-                  url: "#"
-                - name: Contact Us
-                  url: "#"
 
 
 
