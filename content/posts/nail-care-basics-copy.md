@@ -3,9 +3,9 @@ ShowBreadCrumbs = true
 ShowToc = true
 author = "Nail Care Basics"
 date = 2021-09-07T23:00:00Z
-description = "This post will help you spot toe nail fungs and also help you remedy the condition at home."
+description = "This post will help you spot toe nail fungus and also help you remedy the condition at home."
 draft = true
-tags = ["tow nail fungus, remedy, how to spot"]
+tags = ["How to", "Remedy", "Toe nail fungus"]
 title = "How To Spot Toe Nail Fungus"
 
 +++
