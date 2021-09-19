@@ -12,7 +12,7 @@ title = "How To Spot Toe Nail Fungus"
 
 ![](/uploads/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg)
 
-This post will give you some information if you are searching for a guide that will help you to spot toe nail fungus. If you are suffering from this affliction or if you think you are this will help you by telling you what to look for and helping you to work out how to get rid of this problem.
+**This post will give you some information if you are searching for a guide that will help you to spot toe nail fungus. If you are suffering from this affliction or if you think you are this will help you by telling you what to look for and helping you to work out how to get rid of this problem.**
 
 We will walk you through the causes, we will also tell you how to spot this and of course we will let you know how to get rid of toenail fungus.
 
@@ -50,7 +50,7 @@ You will find that this can happen in people of any age, but you will find that 
 
 You can even find that the toenail fungus can start from athlete’s foot, and it can spread from the foot onto the nail and then from one mail to another.
 
-**The risk factors are as follows:**
+## The risk factors are as follows:
 
 · Being older, owing to reduced blood flow, more years of exposure to fungi and slower growing nails
 
@@ -72,24 +72,24 @@ The main thing to exercise here is patience, it can take a long time even months
 
 If you have a more severe infection then you may get antifungal drugs, these will be prescribed, and you take them orally or can apply them directly to the nail.
 
-**Some of the most common types are:**
+## Some of the most common types are:
 
-Oral antifungal drugs. These drugs are often the first choice because they clear the infection more quickly than do topical drugs. Options include terbinafine (Lamisil) and itraconazole (Sporanox). These drugs help a new nail grow free of infection, slowly replacing the infected part.
+**Oral antifungal drugs**. These drugs are often the first choice because they clear the infection more quickly than do topical drugs. Options include terbinafine (Lamisil) and itraconazole (Sporanox). These drugs help a new nail grow free of infection, slowly replacing the infected part.
 
 You typically take this type of drug for six to 12 weeks. But you won't see the end result of treatment until the nail grows back completely. It may take four months or longer to eliminate an infection. Treatment success rates with these drugs appear to be lower in adults over age 65.
 
 Oral antifungal drugs may cause side effects ranging from skin rash to liver damage. You may need occasional blood tests to check on how you're doing with these types of drugs. Doctors may not recommend them for people with liver disease or congestive heart failure or those taking certain medications.
 
-Medicated nail polish. Your doctor may prescribe an antifungal nail polish called ciclopirox (Penlac). You paint it on your infected nails and surrounding skin once a day. After seven days, you wipe the piled-on layers clean with alcohol and begin fresh applications. You may need to use this type of nail polish daily for almost a year.
+**Medicated nail polish**. Your doctor may prescribe an antifungal nail polish called ciclopirox (Penlac). You paint it on your infected nails and surrounding skin once a day. After seven days, you wipe the piled-on layers clean with alcohol and begin fresh applications. You may need to use this type of nail polish daily for almost a year.
 
-Medicated nail cream. Your doctor may prescribe an antifungal cream, which you run into your infected nails after soaking. These creams may work better if you first thin the nails. This helps the medication get through the hard nail surface to the underlying fungus.
+**Medicated nail cream**. Your doctor may prescribe an antifungal cream, which you run into your infected nails after soaking. These creams may work better if you first thin the nails. This helps the medication get through the hard nail surface to the underlying fungus.
 
-**Surgery:**
+## **Surgery**
 
 In some cases, surgery may be suggested and the temporary removal of the nail so that you can apply the antifungal drug directly onto the infection. This is only in extreme cases and should not be taken lightly. You will also find that some fungal nail infections do not respond to medications and if that is the case the doctor may suggest permanent nail removal if it is extremely painful.
 
-#### What to Do?
+## What to Do?
 
-The good news is that even though toenail fungus can be problematic there is also ways that you can remedy this at home. Check out the site several nail fungi remedies that we will be suggesting and check them out first especially if you only have a mild condition.
+The good news is that even though toenail fungus can be problematic there is also ways that you can remedy this at home. Check out the site and several nail fungi remedies that we will be suggesting and check them out first especially if you only have a mild condition.
 
 We hope this is helped you to spot toenail fungus and we also hope that you only have a mild case and can get this resolved fairly quickly.
