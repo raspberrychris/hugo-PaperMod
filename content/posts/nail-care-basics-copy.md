@@ -4,7 +4,6 @@ ShowToc = true
 author = "Healthy Nail Guru"
 date = 2021-09-07T23:00:00Z
 description = "This post will help you spot toe nail fungus and also help you remedy the condition at home."
-draft = true
 tags = ["How to", "Remedy", "Toe nail fungus"]
 title = "How To Spot Toe Nail Fungus"
 
@@ -51,7 +50,7 @@ You will find that this can happen in people of any age, but you will find that 
 
 You can even find that the toenail fungus can start from athlete’s foot, and it can spread from the foot onto the nail and then from one mail to another.
 
-The risk factors are as follows:
+**The risk factors are as follows:**
 
 · Being older, owing to reduced blood flow, more years of exposure to fungi and slower growing nails
 
@@ -73,7 +72,7 @@ The main thing to exercise here is patience, it can take a long time even months
 
 If you have a more severe infection then you may get antifungal drugs, these will be prescribed, and you take them orally or can apply them directly to the nail.
 
-Some of the most common types are:
+**Some of the most common types are:**
 
 Oral antifungal drugs. These drugs are often the first choice because they clear the infection more quickly than do topical drugs. Options include terbinafine (Lamisil) and itraconazole (Sporanox). These drugs help a new nail grow free of infection, slowly replacing the infected part.
 
