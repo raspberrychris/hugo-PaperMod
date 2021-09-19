@@ -4,7 +4,6 @@ ShowToc = true
 author = "Healthy Nail Guru"
 date = 2021-09-18T23:00:00Z
 description = "This post will help you spot toe nail fungus and also help you remedy the condition at home."
-draft = true
 tags = ["Remedy", "Toe Nail Fungus", "How to"]
 title = "How To Spot Toe Nail Fungus"
 
