@@ -1,7 +1,7 @@
 +++
 ShowBreadCrumbs = true
 ShowToc = true
-author = "Nail Care Basics"
+author = "Healthy Nail Guru"
 date = 2021-09-07T23:00:00Z
 description = "This post will help you spot toe nail fungus and also help you remedy the condition at home."
 draft = true
@@ -9,7 +9,9 @@ tags = ["How to", "Remedy", "Toe nail fungus"]
 title = "How To Spot Toe Nail Fungus"
 
 +++
-# How To Spot Toe Nail Fungus:
+# How To Spot Toe Nail Fungus
+
+![](/uploads/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg)
 
 This post will give you some information if you are searching for a guide that will help you to spot toe nail fungus. If you are suffering from this affliction or if you think you are this will help you by telling you what to look for and helping you to work out how to get rid of this problem.
 
@@ -21,11 +23,11 @@ The first thing that we will look at is an overview and exactly what to look for
 
 ## Overview:
 
-Nail fungus is a common condition that can begin as a white or yellow spot under the tip of your fingernail or your toenail. When it starts it will be very difficult to spot but as the infection goes deeper you will find that your toenail could thicken and crumble at the edge, you can also find that this can spread to several nails.
+**Nail fungus** is a common condition that can begin as a white or yellow spot under the tip of your fingernail or your toenail. When it starts it will be very difficult to spot but as the infection goes deeper you will find that your toenail could thicken and crumble at the edge, you can also find that this can spread to several nails.
 
 If you have a mild condition, you may not need any treatment at all, however if this has progressed and it has ended up being painful and also caused thickened nails then you do need a certain amount of self-care and you can find medications that will help. The thing to remember with toenail fungus is that even if treatment is successful, you may find that this will always come back.
 
-The medical name for nail fungus is Onychomycosis and you may also know a closely related condition which is more common and that is athlete’s foot. The only difference between these conditions is one affects the nail, and one affects between the toes.
+The medical name for nail fungus is [Onychomycosis]() and you may also know a closely related condition which is more common and that is athlete’s foot. The only difference between these conditions is one affects the nail, and one affects between the toes.
 
 If you are trying to work out whether you have toenail fungus here are some of the symptoms to look for:
 
