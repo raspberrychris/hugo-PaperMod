@@ -16,6 +16,8 @@ Although, the simple and fast answer to this question is:
 
 _“No!”_
 
+![](/uploads/lucrezia-carnelos-kn6qrwtnaty-unsplash.jpg)
+
 That does not mean that it is all gloom and doom, the good news with this is that for the most part will find that most cases are not severe. The main thing that you will want to do if you are worried about having toenail fungus is to make sure that you actually do have this problem.
 
 Part of the reason that it can get worse is because when toenail fungus starts it can be very hard to spot. There might be a slight yellowing of the toenail, you could find that your toenail cracks more often than usual or it looks thicker.
