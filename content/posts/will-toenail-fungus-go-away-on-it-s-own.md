@@ -26,7 +26,9 @@ That does not mean that it is all gloom and doom, the good news with this is tha
 
 Part of the reason that it can get worse is because when toenail fungus starts it can be very hard to spot. There might be a slight yellowing of the toenail, you could find that your toenail cracks more often than usual or it looks thicker.
 
-All of the above problems could be something else as well, so we recommend the first course of action if you are wondering whether you have toenail fungus is to consult your doctor. They will normally give you the best indication on whether you have a toenail fungus infection and they can also describe the best options for a cure while you are there.
+[**Unsure on How to Spot Toenail Fungus? Click here to check out our article How to Spot Toenail Fungus**](https://healthynailguru.com/posts/how-to-spot-toe-nail-fungus/)
+
+All of the above problems could be something else as well, so we recommend the first course of action if you are wondering whether you have toenail fungus is to consult your doctor. They will normally give you the best indication on whether you have a toenail fungus infection and they can also describe the best options for a cure while you are there.  For further indication check our article on [**How to Spot Toenail Fungus.**](https://healthynailguru.com/posts/how-to-spot-toe-nail-fungus/)
 
 ## It Won’t go Away on its Own
 
