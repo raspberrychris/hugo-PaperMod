@@ -18,11 +18,17 @@ _“No!”_
 
 ![](/uploads/lucrezia-carnelos-kn6qrwtnaty-unsplash.jpg)
 
+## Most Cases are not that severe
+
 That does not mean that it is all gloom and doom, the good news with this is that for the most part will find that most cases are not severe. The main thing that you will want to do if you are worried about having toenail fungus is to make sure that you actually do have this problem.
+
+## Toenail Fungus Can Be Hard To Spot
 
 Part of the reason that it can get worse is because when toenail fungus starts it can be very hard to spot. There might be a slight yellowing of the toenail, you could find that your toenail cracks more often than usual or it looks thicker.
 
 All of the above problems could be something else as well, so we recommend the first course of action if you are wondering whether you have toenail fungus is to consult your doctor. They will normally give you the best indication on whether you have a toenail fungus infection and they can also describe the best options for a cure while you are there.
+
+## It Won’t go Away on its Own
 
 As mentioned above, the main thing to remember is that it will not go away on its own so you will need to make sure that you have some kind of treatment.
 
@@ -46,7 +52,7 @@ If your case is even more severe or the above treatments are not having a lot of
 
 The other thing that you can find is that you may be offered laser treatment in some cases, this is great because it will normally be very effective, and it can be used to stop you losing the nail.
 
-## Main Advice To Follow:
+## Main Advice To Follow
 
 The main advice to follow is that most complications that come from a nail fungus infection normally start because it was ignored. This is very easy to do because it can be difficult to spot and even if you think that you have a toenail fungus infection it does not limit with your day-to-day activities to start.
 
@@ -56,7 +62,7 @@ Take our advice and do not just wait for this to go away on its own - the first 
 
 The other reason to go straight to the doctor is that they will normally prescribe exactly the right medicine that you need and that means that you are not having to second-guess or try to use a lot of non-prescription remedies that will not work for you.
 
-## Conclusion:
+## Conclusion
 
 The good news is that despite your toenail fungus not going away on its own, there are plenty of treatments online and you will also find lots of different methods of getting rid of this problem. The other good news is that for the most part you will find that your toenail fungus will be a mild infection.
 
