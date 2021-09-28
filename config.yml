@@ -57,8 +57,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "Discover how to keep your Nails in great shape with the Healthy Nail Guru"
+    author: Healthy Nail Guru
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: light
@@ -94,7 +94,7 @@ params:
 
     editPost:
         URL: "https://healthynailguru.com/contact"
-        Text: "Suggest Changes" # edit text
+        Text: "" # edit text
         appendFilePath: true # to append file path to Edit link
 
     # label:
