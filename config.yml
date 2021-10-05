@@ -12,7 +12,7 @@ enableEmoji: true
 # googleAnalytics: UA-123-45
 
 minify:
-    disableXML: true
+    disableXML: false
     # minifyOutput: true
 
 languages:
@@ -39,6 +39,8 @@ languages:
                 - name: Home
                   url: /
                   weight: 5
+                - name: Blog
+                  url: "https://healthynailguru.com/posts/"
                 - name: Affiliate Disclosure
                   url: "https://healthynailguru.com/affiliate-disclosure"
                 - name: Privacy Policy
