@@ -8,7 +8,7 @@ tags = ["Remedy", "Toe Nail Fungus"]
 title = "What Kills Toe Nail Fungus? How to Get Rid of It"
 
 +++
-# What Kills Toe Nail Fungus? – How To Get Rid Of This Problem…
+## What Kills Toe Nail Fungus? – How To Get Rid Of This Problem…
 
 **This post will help to answer the question:**
 
