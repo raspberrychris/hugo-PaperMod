@@ -34,19 +34,19 @@ Quite simply anything that you are looking to use against toenail fungus must co
 
 Vicks VapoRub can help and is a topical solution and although this is normally used for respiratory problems and a cough you can also use it to help get rid of toenail fungus. The active ingredients in this are camphor and eucalyptus oil, this has been proven to have a beneficial effect but again make sure that you have a proper diagnosis, so you know what you are treating.
 
-2. **Tea tree oil:**
+1. **Tea tree oil:**
 
 This is also another remedy that you can try which is very easy to pick up. Although this is not quite as popular there has been some studies done that showed this may be effective against toenail fungus, all you need to do with this one is painted directly onto the toenail, and it will help and if you do this twice daily with a cotton swab you should experience in beneficial effects.
 
-3. **Vinegar:**
+1. **Vinegar:**
 
 This is well worth a try and is very easy to locate as you will properly have been got already in the house somewhere. To use this, you should make up the solution and soak your foot in one part vinegar and two parts warms alter for up to 20 minutes. This will not cause any harm in most cases and some people have said that this will work to get rid of toenail fungus over time.
 
-4. **Garlic:**
+1. **Garlic:**
 
 Garlic is worth a look at if you are searching for remedies and solutions to kill toenail fungus as studies have shown it has some antifungal and antimicrobial capabilities. This means that you can use this, and you can treat toenail fungus with garlic by placing chopped or crushed garlic cloves on the affected area for thirty minutes daily. You can also treat this with garlic capsules which may be an idea if you find it difficult to do this or if you want to cut down on the smell of garlic.
 
-5. **Diet**:
+1. **Diet**:
 
 A really easy thing that you can try that will kill toenail fungus is to change your diet. There are some things that you can ingest internally that will actually help and these include eating a probiotic rich yoghurt, make sure that you eat more protein as that will support nail regrowth and get enough iron and that will help to prevent brittle nails.
 
@@ -62,6 +62,6 @@ As mentioned, the main thing is to get a diagnosis first as you do not want to s
 
 Another thing that you can try it is a very popular solution online that people have been singing the praises of. This may well be worth a look if you know that you have toenail fungal problems and you want something that seems to be working for a lot of people and gives you something easily accessible.
 
-Check it out below so you can see the video on how this was designed and what it will do for you, but this may be a solution for you if you are looking for a great toenail fungus remedy.
+**Check it out here** so you can see how this was designed and what it will do for you, but this may be a solution for you if you are looking for a **great toenail fungus remedy.**
 
 Thanks for reading and [check out some of our other articles on toenail fungus](Https://Healthynailguru.com/posts/) and how to get rid of this problem.
