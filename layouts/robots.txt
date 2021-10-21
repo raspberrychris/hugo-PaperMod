@@ -1,6 +1,8 @@
 User-agent: *
 {{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
 Disallow:
+/tags/
+/archives/
 {{- else }}
 Disallow: /
 {{- end }}
