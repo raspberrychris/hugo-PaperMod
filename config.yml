@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-staticDir2: posts
+staticDir2: /posts/
 # googleAnalytics: UA-123-45
 
 minify:
