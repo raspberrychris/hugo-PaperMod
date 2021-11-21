@@ -3,7 +3,6 @@ User-agent: *
 Disallow:
 /tags/
 /link/
-/archives/
 {{- else }}
 Disallow: /
 {{- end }}
