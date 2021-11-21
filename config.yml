@@ -22,8 +22,8 @@ languages:
         menu:
             main:
                 - name: Archive
-                  url: archives
-                  weight: 5
+                  url: archives/
+                  weight: 10
                 - name: Search
                   url: search/
                   weight: 10
@@ -40,7 +40,7 @@ languages:
                   url: /
                   weight: 5
                 - name: Blog
-                  url: "https://healthynailguru.com/posts/"
+                  url: "https://healthynailguru.com/posts"
                 - name: Affiliate Disclosure
                   url: "https://healthynailguru.com/affiliate-disclosure"
                 - name: Privacy Policy
@@ -48,6 +48,9 @@ languages:
                 - name: Search
                   url: search
                   weight: 5
+                - name: Archive
+                  url: "https://healthynailguru.com/archives"
+                  weight: 10
 
 
 
@@ -58,7 +61,7 @@ outputs:
         - JSON
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    env: # to enable google analytics, opengraph, twitter-cards and schema (this was: production  )
     description: "Discover how to keep your Nails in great shape with the Healthy Nail Guru"
     author: Healthy Nail Guru
     # author: ["Me", "You"] # multiple authors
@@ -92,7 +95,13 @@ params:
     homeInfoParams:
         Title: "Healthy Nail Guru"
         Content: >
-            Welcome to healthynailguru.com the home of healthy nail care tips and advice
+            Welcome to healthynailguru.com the home of healthy nail care tips and advice.
+
+            If you suffer from nail fungus then you will know how frustrating and debilitating it can be.
+
+            Check out our posts below that will offer advice on support on how to deal with nail fungus to keep your nails healthy!
+
+            
 
     editPost:
         URL: "https://healthynailguru.com/contact"
