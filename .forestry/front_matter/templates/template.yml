@@ -72,10 +72,3 @@ fields:
   - type: boolean
     name: hidden
     label: hidden
-- type: field_group
-  name: editPost
-  label: editPost
-  fields:
-  - type: text
-    name: URL
-    label: URL
