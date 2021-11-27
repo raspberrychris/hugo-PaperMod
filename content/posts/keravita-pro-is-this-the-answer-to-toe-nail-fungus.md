@@ -10,6 +10,9 @@ description = "Is Keravita Pro the solution to stubborn Toe Nail Fungus?"
 showToc = true
 tags = ["Remedy", "Toe Nail Fungus", "Keravita Pro"]
 title = "Keravita Pro – Is This The Answer To Toe Nail Fungus?"
+[cover]
+alt = "Keravita Pro – Is This The Answer To Toe Nail Fungus"
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy-3.webp"
 
 +++
 # Keravita Pro – Is This The Answer To Toe Nail Fungus?
@@ -66,7 +69,7 @@ Vitamins C 30mg and E 20mg
 
 Selenium 30mg
 
-To have a closer look at a few of these you will find that:
+**To have a closer look at a few of these you will find that:**
 
 **Curcumin:**
 
