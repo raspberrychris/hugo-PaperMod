@@ -1,11 +1,18 @@
 +++
 ShowBreadCrumbs = true
+ShowPostNavLinks = true
 ShowToc = true
+TocOpen = true
 author = "Healthy Nail Guru"
+comments = true
 date = 2021-10-18T23:00:00Z
 description = "If you are suffering from toenail fungus, then it can be very difficult to try and get rid of this problem."
+showToc = true
 tags = ["Remedy", "Toe Nail Fungus"]
 title = "What Kills Toe Nail Fungus? How to Get Rid of It"
+[cover]
+alt = "What Kills Toe Nail Fungus? – How To Get Rid Of This Problem"
+image = "/uploads/pexels-angela-roma-7319030.jpg"
 
 +++
 ## What Kills Toe Nail Fungus? – How To Get Rid Of This Problem…
@@ -65,3 +72,5 @@ Another thing that you can try it is a very popular solution online that people 
 **Check it out here** so you can see how this was designed and what it will do for you, but this may be a solution for you if you are looking for a **great toenail fungus remedy.**
 
 Thanks for reading and [check out some of our other articles on toenail fungus](Https://Healthynailguru.com/posts/) and how to get rid of this problem.
+
+Cover Photo by [**Angela Roma**](https://www.pexels.com/@angela-roma?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [**Pexels**](https://www.pexels.com/photo/shy-model-in-casual-clothes-on-pastel-background-7319030/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
