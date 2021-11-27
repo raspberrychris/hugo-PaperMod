@@ -101,7 +101,10 @@ params:
 
             Check out our posts below that will offer advice on support on how to deal with nail fungus to keep your nails healthy!
 
-
+    cover:
+      hidden: true # hide everywhere but not in structured data
+      hiddenInList: false # hide on list pages and home
+      hiddenInSingle: true # hide on single page
 
     editPost:
         URL: "https://healthynailguru.com/contact"
