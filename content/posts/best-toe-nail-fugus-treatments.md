@@ -1,5 +1,6 @@
 +++
 ShowBreadCrumbs = true
+ShowPostNavLinks = true
 ShowReadingTime = true
 ShowToc = true
 TocOpen = true
@@ -11,8 +12,8 @@ showToc = true
 tags = ["Home treatments", "Toenail fungus treatment", "Toenail fungus"]
 title = "Best Toenail Fungus Treatments"
 [cover]
-alt = "Home Treatments For Toe Nail Fungus:"
-image = "/uploads/lina-kraftsoff-jjrpborcjc4-unsplash.jpg"
+alt = "Best toenail fungus treatments"
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy.webp"
 
 +++
 **If you are suffering from toenail fungus, then you will already know how difficult this problem can be to get rid of. On this page we are going to give you some of the best home toenail fungus treatments that you can try, and this will be your best course of action before you go to more drastic measures.**
