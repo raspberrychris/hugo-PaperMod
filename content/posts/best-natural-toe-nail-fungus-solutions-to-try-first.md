@@ -11,6 +11,9 @@ description = "If you are suffering from toe nail fungus and you are trying your
 showToc = true
 tags = ["Natural Solutions", "Nail Fungus", "Nail Fungus Solutions"]
 title = "Best Natural Toe Nail Fungus Solutions To Try First…"
+[cover]
+alt = "Best Natural Toe Nail Fungus Solutions To Try First…"
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy-4.webp"
 
 +++
 If you are suffering from toe nail fungus and you are trying your best to get rid of this problem, it can be very frustrating. This is because due to the nature of this problem with the nail being affected it can be difficult to treat because you are essentially having to find something that will get underneath the shield of the nail.
