@@ -14,11 +14,10 @@ tags = ["Athlete’s Foot", "Treatment", "Toe Nail Fungus"]
 title = "Will Toenail Fungus Go Away On It’s Own?"
 [cover]
 alt = "will toe nail fungus go away on its own"
-image = "/uploads/lucrezia-carnelos-kn6qrwtnaty-unsplash.jpg"
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3.png"
+relative = false
 
 +++
-![](/uploads/lucrezia-carnelos-kn6qrwtnaty-unsplash.jpg)
-
 **If you are searching for some help and advice with toenail fungus then this article will help and answer the question:**
 
 _“Will toenail fungus go away on its own?”_
