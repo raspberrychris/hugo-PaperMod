@@ -1,11 +1,20 @@
 +++
 ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 ShowToc = true
+TocOpen = true
 author = "Healthy Nail Guru"
+comments = true
 date = 2021-09-20T23:00:00Z
 description = "Will Toenail Fungus go away on its own? Discover the answer in this article."
+hidemeta = false
+showToc = true
 tags = ["Athlete’s Foot", "Treatment", "Toe Nail Fungus"]
 title = "Will Toenail Fungus Go Away On It’s Own?"
+[cover]
+alt = "will toe nail fungus go away on its own"
+image = "/uploads/lucrezia-carnelos-kn6qrwtnaty-unsplash.jpg"
 
 +++
 ![](/uploads/lucrezia-carnelos-kn6qrwtnaty-unsplash.jpg)
