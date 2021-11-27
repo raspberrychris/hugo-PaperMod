@@ -79,9 +79,3 @@ fields:
   - type: text
     name: URL
     label: URL
-  - type: text
-    name: Text
-    label: Text
-  - type: boolean
-    name: appendFilePath
-    label: appendFilePath
