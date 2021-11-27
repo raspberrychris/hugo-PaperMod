@@ -13,7 +13,7 @@ tags = ["Remedy", "Toe Nail Fungus", "How to"]
 title = "How To Spot Toe Nail Fungus"
 [cover]
 alt = "How To Spot Toe Nail Fungus"
-image = ""
+image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy-5.webp"
 
 +++
 **This post will give you some information if you are searching for a guide that will help you to spot toe nail fungus. If you are suffering from this affliction or if you think you are this will help you by telling you what to look for and helping you to work out how to get rid of this problem.**
