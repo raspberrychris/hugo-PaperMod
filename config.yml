@@ -13,7 +13,7 @@ enableEmoji: true
 
 minify:
     disableXML: false
-    # minifyOutput: true
+    minifyOutput: true
 
 languages:
     en:
@@ -101,7 +101,7 @@ params:
 
             Check out our posts below that will offer advice on support on how to deal with nail fungus to keep your nails healthy!
 
-            
+
 
     editPost:
         URL: "https://healthynailguru.com/contact"
