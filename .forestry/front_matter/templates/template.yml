@@ -42,33 +42,5 @@ fields:
   name: hideSummary
   label: hideSummary
 - type: boolean
-  name: searchHidden
-  label: searchHidden
-- type: boolean
   name: ShowReadingTime
   label: ShowReadingTime
-- type: boolean
-  name: ShowBreadCrumbs
-  label: ShowBreadCrumbs
-- type: boolean
-  name: ShowPostNavLinks
-  label: ShowPostNavLinks
-- type: field_group
-  name: cover
-  label: cover
-  fields:
-  - type: file
-    name: image
-    label: image
-  - type: text
-    name: alt
-    label: alt
-  - type: text
-    name: caption
-    label: caption
-  - type: boolean
-    name: relative
-    label: relative
-  - type: boolean
-    name: hidden
-    label: hidden
