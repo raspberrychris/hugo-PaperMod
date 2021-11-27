@@ -29,7 +29,7 @@ The main thing is to get it checked out by a professional and not buy anything o
 
 If you are here because you have tried everything you can think of and you are still suffering from a mild toenail fungal infection, you might want to [**check out Keravita Pro.**](https://healthynailguru.com/link/toe-nail-fungus-treatment/)
 
-We will tell you a little bit about what you get with [**Keravita Pro**](https://healthynailguru.com/link/toe-nail-fungus-treatment/) below:
+**We will tell you a little bit about what you get with** [**Keravita Pro**](https://healthynailguru.com/link/toe-nail-fungus-treatment/) **below:**
 
 ## What is Keravita Pro?
 
