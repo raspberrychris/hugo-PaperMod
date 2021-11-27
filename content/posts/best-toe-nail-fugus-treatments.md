@@ -1,15 +1,20 @@
 +++
 ShowBreadCrumbs = true
+ShowReadingTime = true
 ShowToc = true
+TocOpen = true
 author = "Healthy Nail Guru"
+comments = true
 date = 2021-09-27T23:00:00Z
 description = "Discover some of the best home toenail fungus treatments in this article."
+showToc = true
 tags = ["Home treatments", "Toenail fungus treatment", "Toenail fungus"]
 title = "Best Toenail Fungus Treatments"
+[cover]
+alt = "Home Treatments For Toe Nail Fungus:"
+image = "/uploads/lina-kraftsoff-jjrpborcjc4-unsplash.jpg"
 
 +++
-![](/uploads/lina-kraftsoff-jjrpborcjc4-unsplash.jpg)
-
 **If you are suffering from toenail fungus, then you will already know how difficult this problem can be to get rid of. On this page we are going to give you some of the best home toenail fungus treatments that you can try, and this will be your best course of action before you go to more drastic measures.**
 
 By “drastic measures” we don’t mean anything to bad just visiting your doctor and seeing what they suggest.
