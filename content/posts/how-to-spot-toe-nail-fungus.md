@@ -1,16 +1,22 @@
 +++
 ShowBreadCrumbs = true
+ShowPostNavLinks = true
+ShowReadingTime = true
 ShowToc = true
+TocOpen = true
 author = "Healthy Nail Guru"
+comments = true
 date = 2021-09-18T23:00:00Z
 description = "This post will help you spot toe nail fungus and also help you remedy the condition at home."
+showToc = true
 tags = ["Remedy", "Toe Nail Fungus", "How to"]
 title = "How To Spot Toe Nail Fungus"
+[cover]
+alt = "How To Spot Toe Nail Fungus"
+image = "/uploads/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg"
 
 +++
 # How To Spot Toe Nail Fungus
-
-![](/uploads/how-soon-ngu-7vz3dtqdt3q-unsplash.jpg)
 
 **This post will give you some information if you are searching for a guide that will help you to spot toe nail fungus. If you are suffering from this affliction or if you think you are this will help you by telling you what to look for and helping you to work out how to get rid of this problem.**
 
