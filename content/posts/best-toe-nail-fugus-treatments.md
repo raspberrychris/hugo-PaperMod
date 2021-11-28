@@ -54,7 +54,7 @@ You can even use Vick’s vapour rub; this is because it is very heavy in mentho
 
 There is also a way to treat toenail fungus using vinegar which does not have as much research done on it, but some people have seen some great results using this or using hydrogen peroxide.
 
-## Recommendations:
+## Our Recommendations:
 
 Always remember to seek medical help and do not take our word on this site for medical advice. If you are worried about any of the solutions above it is always best to go direct and seek medical assistance.
 
