@@ -12,7 +12,7 @@ showToc = true
 tags = ["Home treatments", "Toenail fungus treatment", "Toenail fungus"]
 title = "Best Toenail Fungus Treatments"
 [cover]
-alt = "Best toenail fungus treatments"
+alt = "Best toenail fungus treatments "
 image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy.webp"
 
 +++
