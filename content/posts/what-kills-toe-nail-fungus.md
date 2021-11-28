@@ -12,7 +12,7 @@ showToc = true
 tags = ["Remedy", "Toe Nail Fungus"]
 title = "What Kills Toe Nail Fungus? How to Get Rid of It"
 [cover]
-alt = "What Kills Toe Nail Fungus? – How To Get Rid Of This Problem"
+alt = "What Kills Toe Nail Fungus How To Get Rid Of This Problem"
 image = "/uploads/aquamarine-and-orange-bordered-games-collection-youtube-channel-art-3-copy-2.webp"
 
 +++
